@@ -3,7 +3,7 @@
 ## About Me
 - **Name:** MinJae Kwon
 - **Major:** Sociology
-- 
+  
 ## A Piece of Music I Love
 *Symphony No. 5* by Ludwig van Beethoven
 
